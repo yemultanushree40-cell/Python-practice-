@@ -15,4 +15,3 @@ printf("odd number");
 }
 return 0;
 }
-
